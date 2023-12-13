@@ -1,0 +1,57 @@
+		ASSIGNMENT DAY 2
+
+
+Question 1:-
+	What are the differences between var, let and const?
+Answer:-
+	var, let, const are the keyword to declare variables. 
+	'var': var is use to make variable which value can be re-assignable, It is a globle scope variable. 
+	'let': let is use to make variable which value can be re-assignable, block scope local variable.
+	'const': const is use to make a variable ehich value can not be changed, block scope local variable
+
+
+
+Question 2:-
+	Difference between undefined vs not defined vs NaN
+Answer:-
+	'undefined': when we declare a variable but not define or assign a value and we try to print value then program 
+	give output undefined.	
+	
+	'not defined': when we not declare a variable and trying to print its value. Then program give an error not defined.
+	
+	'NaN': It is stands for not a number and globle property of a value, When we perform some operation on
+	value and when it not return proper numeric value and we trying to convert it into Number then it give
+	us NAN. 
+
+
+
+Question 3:-
+	What is difference between null and undefined and where to use what?
+Answer:-
+	'null': It is a data type, We can assign it in an object when we have not actual value of the object.
+	'undefined': It is also a data type, Which is automatically assign by the browser when we not provide
+	value of a variable
+
+
+
+Question 4:-
+	What is execution context?
+	
+Answer:-
+	When the JavaScript engine scans a script file, it makes an environment called the Execution Context 
+	that handles the entire transformation and execution of the code.
+	
+
+
+Question 5:-
+	What is use of prompt in JavaScript?
+Answer:-
+	prompt is use in javascript to take input from the user by using alert box.
+	
+
+
+Question 6:-
+	Why JavaScript is Dyanmic Language?
+Answer:-
+	Javascript is Dynamic language because in this we donot required to declare datatype of a variable and 
+	we can change variable datatype at any place of program.
